@@ -1,3 +1,3 @@
 # Github Finder
 
-Learning React JS from Brad Traversy React Course!
+Version without hook and state management like Redux
